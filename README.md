@@ -1,8 +1,8 @@
-# Hostel Application
+# Hostel Complaint Registry Backend
 
 ## Overview
 
-The Hostel Application is a Spring Boot-based project that manages user and complaint-related operations. It provides RESTful endpoints for user management, authentication, and complaint handling.
+The Hostel Complaint Registry Backend is a Spring Boot-based project that manages user and complaint-related operations. It provides RESTful endpoints for user management, authentication, and complaint handling.
 
 ## Technologies Used
 
